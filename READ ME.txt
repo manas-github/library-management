@@ -1,0 +1,8 @@
+This project has been developed by Manas & Amol during 5th semester project in BMSCE.
+
+Steps to run the project:
+1. Install xampp on the system and start Apache and SQL server
+2. Move the src folder in htdocs foler of xampp
+3. Import the database file in the Sql server.
+4.Go to URL: localhost/src/Login.php
+ 
